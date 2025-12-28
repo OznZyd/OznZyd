@@ -27,30 +27,8 @@ I don't just write code; I solve operational problems using whatever tool is bes
 
 ---
 
-### 🏆 Achievements & Activity
+### 📫 Connect
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OznZyd&theme=flat&no-frame=true&margin-w=4" alt="OznZyd Trophies" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OznZyd&theme=dark&hide_border=true" alt="Ozan's Streak" />
-</p>
-
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ozanzeydanoglu)
-<!--
-**OznZyd/OznZyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com/in/ozanzeydanoglu">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+</a>
