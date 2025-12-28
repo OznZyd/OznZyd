@@ -27,10 +27,17 @@ I don't just write code; I solve operational problems using whatever tool is bes
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OznZyd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OznZyd&layout=compact&theme=tokyonight)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=OznZyd&theme=flat&no-frame=true&margin-w=4" alt="OznZyd Trophies" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OznZyd&theme=dark&hide_border=true" alt="Ozan's Streak" />
+</p>
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ozanzeydanoglu)
 <!--
