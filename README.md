@@ -30,8 +30,8 @@ I don't just write code; I solve operational problems using whatever tool is bes
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OznZyd&show_icons=true&theme=dark&hide_border=true&locale=en" height="180" alt="Ozan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OznZyd&layout=compact&theme=dark&hide_border=true&locale=en" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OznZyd&show_icons=true&theme=dark&hide_border=true&locale=en&v=2025" height="180" alt="Ozan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OznZyd&layout=compact&theme=dark&hide_border=true&locale=en&v=2025" height="180" alt="Top Langs" />
 </p>
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ozanzeydanoglu)
