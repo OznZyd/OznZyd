@@ -29,11 +29,12 @@ I don't just write code; I solve operational problems using whatever tool is bes
 
 ### 📊 GitHub Stats
 
-![Ozan's Stats](https://github-readme-stats.vercel.app/api?username=OznZyd&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OznZyd&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=OznZyd&show_icons=true&theme=dark&hide_border=true&locale=en" height="180" alt="Ozan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OznZyd&layout=compact&theme=dark&hide_border=true&locale=en" height="180" alt="Top Langs" />
+</p>
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ozanzeydanoglu)
-
 <!--
 **OznZyd/OznZyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
