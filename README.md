@@ -29,10 +29,8 @@ I don't just write code; I solve operational problems using whatever tool is bes
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=OznZyd&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ozan's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OznZyd&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
+![Ozan's Stats](https://github-readme-stats.vercel.app/api?username=OznZyd&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OznZyd&layout=compact&theme=dark&hide_border=true)
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ozanzeydanoglu)
 
