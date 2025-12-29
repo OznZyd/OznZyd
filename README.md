@@ -29,8 +29,8 @@ My strength is not tied to a single technology but to my ability to **analyze sy
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <br>
-  <img src="https://img.shields.io/badge/Data_Modelling-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ETL_Pipelines-2C2D72?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Modelling-4B8BBE?style=for-the-badge" />
 </p>
 
 **DevOps & App Development**
