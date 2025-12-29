@@ -1,28 +1,43 @@
-### Hi there, I'm Ozan! 👋
+### Hi there, I'm Ozan
 
-I'm an **Engineering Professional** combining technical adaptability with industrial discipline. My focus is on **automating workflows, optimizing systems, and building reliable software tools.**
+I am a **Software & Operations Engineer** dedicated to engineering robust technical solutions.
 
-I don't just write code; I solve operational problems using whatever tool is best for the job—whether it's Python scripting, Data Analysis, or System Automation.
+My strength is not tied to a single technology but to my ability to **analyze systems, architect solutions, and implement them efficiently.** I approach software development with an industrial mindset: prioritizing **reliability, scalability, and maintainability** above all else.
 
-- 🔭 I’m currently building **Industrial Automation Tools** & **System Monitors**
-- 🛠️ I’m expanding my skills in **DevOps, Cloud Infrastructure & Containerization**
-- 🏭 Background: **Production Engineering & ERP Systems** (Bridging OT/IT gaps)
-- 🎯 Goal: contributing to technical teams as a **Software, Data, or Operations Engineer**
+* **Professional Focus:** End-to-End Software Development, Infrastructure Optimization, and System Reliability.
+* **Engineering Approach:** **Tech-Agnostic & Adaptable.** I leverage the best tools for the job and continuously expand my technical stack to meet complex project demands.
+* **Goal:** Contributing to technical teams where engineering logic drives software innovation.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
+**Core & Scripting**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Data Engineering & Analytics**
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+**DevOps & App Development**
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+**Methodologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile-5D6C7A?style=for-the-badge&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrum&logoColor=white" />
 </p>
 
 ---
