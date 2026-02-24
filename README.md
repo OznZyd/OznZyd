@@ -1,54 +1,36 @@
-### Hi there, I'm Ozan
+### Hi there, I'm Ozan 👋
 
-> **"I build software systems that reduce operational friction and turn complex processes into clear, reliable workflows."**
+> *"I bridge the gap between industrial operations and modern software architecture, turning complex physical processes into clear, reliable digital workflows."*
 
-I am a **Software & Operations Engineer** dedicated to engineering robust technical solutions.
+I am a **Data & ML Analytics | IT-OT Integration Engineer** dedicated to engineering robust, data-driven solutions. 
 
-My strength is not tied to a single technology but to my ability to **analyze systems, architect solutions, and implement them efficiently.** I specialize in transforming operational data into functional software that improves **process efficiency, decision-making, and system visibility.**
+Coming from a strong industrial background with experience in massive operations (like ŠKODA AUTO a.s. and Özdilek Holding), I specialize in transforming operational data into functional software that improves process efficiency, decision-making, and system visibility. My strength is not tied to a single technology, but to my ability to **analyze systems, architect solutions, and implement them efficiently**.
 
-* **Professional Focus:** End-to-End Software Development, Infrastructure Optimization, and System Reliability.
-* **Engineering Approach:** **Tech-Agnostic & Adaptable.** I leverage the best tools for the job—prioritizing reliability and scalability above all else.
+* **Professional Focus:** End-to-End Software Development, Infrastructure Optimization, and AI/ML System Integration.
+* **Engineering Approach:** Tech-Agnostic & Adaptable. I leverage the best tools for the job—prioritizing reliability and scalability above all else.
 * **Goal:** Contributing to technical teams where engineering logic drives software innovation.
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠 Technical Toolkit
 
 **Core & Scripting**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Data Engineering & Analytics**
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/ETL_Pipelines-2C2D72?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Modelling-4B8BBE?style=for-the-badge" />
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-5C5C5C?style=for-the-badge) ![Data Modelling](https://img.shields.io/badge/Data_Modelling-5C5C5C?style=for-the-badge)
+
+**AI & Machine Learning** *(New!)*
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF9900?style=for-the-badge&logo=openai&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 **DevOps & App Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Methodologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/Agile-5D6C7A?style=for-the-badge&logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrum&logoColor=white" />
-</p>
+![Agile](https://img.shields.io/badge/Agile-20232A?style=for-the-badge) ![Scrum](https://img.shields.io/badge/Scrum-20232A?style=for-the-badge)
 
 ---
 
 ### 📫 Connect
-
-<a href="https://linkedin.com/in/ozanzeydanoglu">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozanzeydanoglu/)
